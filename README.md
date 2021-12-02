@@ -12,7 +12,7 @@
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/c++-ar21.svg"> 
+<img height=60px src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
 </td>
 
 <td align="center" width="50%">
@@ -58,10 +58,6 @@
  </tr>
 </tbody>
 </table>
-
-<!--**Data Science**
-  - Data Visualization
-  - Data Analysis-->
  <table>
 <tbody>
  <tr>
@@ -72,15 +68,14 @@
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
-  - Dynamic Programming
-    
+- Dynamic Programming
 - **Web Development**
 <table>
 <tbody>
- <tr>
+<!-- <tr>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
-</td>  
+</td>  -->
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -88,9 +83,20 @@
 </tbody>
 </table>
 
- <!-- **Data Science**
-   - 
-   - -->
+<!--  **UI/UX**
+  <table>
+<tbody>
+ <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
+</td>  
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> 
+</td>
+</tr>
+</tbody>
+</table> -->
+
     
 <br>
 <p align="center">
@@ -102,16 +108,16 @@
  <a href="_">
 </a>
 <a href="https://www.linkedin.com/in/akanksha-srivastava-a73a67171/">
-  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="akanksha's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/akankshasrivastava1">
   <img align="left" alt="akanksha's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/">
-  <img align="left" alt="Shreya's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt=" Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.hackerrank.com/akankshasrivast6">
-  <img align="left" alt="Shreya's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="akanksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 <br><br>
 
