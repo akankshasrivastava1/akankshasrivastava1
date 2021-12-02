@@ -1,4 +1,4 @@
-<!-### Hi there->
+<!--### Hi there-->
 
 ### Hello World 👋, I'm Akanksha :purple_heart:
 <img alt="GIF" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width = 200/>
@@ -27,7 +27,7 @@
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -35,7 +35,7 @@
 </td>
 
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"> 
 </td>
 
 </td>
@@ -47,7 +47,7 @@
 <img height=100px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
  
 <td align="center" width="33%">
-<img height=100px src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> 
+<img height=100px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -59,19 +59,13 @@
 </tbody>
 </table>
 
--<!-- **Data Science**
+<!--**Data Science**
   - Data Visualization
-  - Data Analysis_-->
+  - Data Analysis-->
  <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
-</td>
-
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"> 
-</td>
 </tr>
 </tbody>
 </table>
@@ -84,9 +78,6 @@
 <table>
 <tbody>
  <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -106,7 +97,6 @@
 
 <br> <br>
  <a href="_">
-  <img align="left" alt= width="22px" src="hg" />
 </a>
 <a href="https://www.linkedin.com/in/akanksha-srivastava-a73a67171/">
   <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
