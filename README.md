@@ -7,7 +7,7 @@
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
 ### My skills :woman_technologist:
-<!--**Competitive Coding**-->
+- **Competitive Coding**
 <table>
 <tbody>
  <tr>
@@ -53,18 +53,22 @@
 <td align="center" width="33%">
 <img height=100px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
 </td>
-<tr>
- 
- </tr>
 </tbody>
 </table>
- <table>
+
+**UI/UX**
+  <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
+</td>  
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> 
+</td>
 </tr>
 </tbody>
-</table>
+</table> 
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
@@ -83,19 +87,7 @@
 </tbody>
 </table>
 
-<!--  **UI/UX**
-  <table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
-</td>  
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table> -->
+
 
     
 <br>
@@ -144,11 +136,11 @@
 </table>
 <br>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshasrivastava1&theme=radical" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
 </p>
-<a href="https://github.com/Shreya549">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreya549&theme=radical" />
+<a href="https://github.com/akankshasrivastava1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshasrivastava1&theme=radical" />
 </a>
 
 <!--
