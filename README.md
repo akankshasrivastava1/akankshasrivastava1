@@ -7,12 +7,12 @@
 #### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.
 
 ### My skills :woman_technologist:
-- **Competitive Coding**
+<!--**Competitive Coding**-->
 <table>
 <tbody>
  <tr>
 <td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/python/c++-ar21.svg"> 
 </td>
 
 <td align="center" width="50%">
@@ -27,7 +27,7 @@
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/php/php-vertical.svg"> 
+<img height=60px src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"> 
 </td>
 
 <td align="center" width="33%">
@@ -72,12 +72,15 @@
 
 ### I'm currently learning :open_book:
 - **Competitive Coding**
-    - Dynamic Programming
+  - Dynamic Programming
     
 - **Web Development**
 <table>
 <tbody>
  <tr>
+<td align="center" width="50%">
+<img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
+</td>  
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
