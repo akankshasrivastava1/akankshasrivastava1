@@ -94,7 +94,7 @@
 <br> <br>
  <a href="_">
 </a>
-<a href="https://www.linkedin.com/in/akanksha-srivastava-a73a67171/">
+<a href="https://www.linkedin.com/in/">
   <img align="left" alt="akanksha's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/akankshasrivastava1">
