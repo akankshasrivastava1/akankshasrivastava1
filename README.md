@@ -56,7 +56,7 @@
 </tbody>
 </table>
 
-**UI/UX**
+- **UI/UX**
   <table>
 <tbody>
  <tr>
@@ -120,8 +120,6 @@
 
 <br>
 <br>
-
-<!--
 <table>
 <tbody>
  <tr>
