@@ -133,9 +133,11 @@
 </tbody>
 </table>
 <br>
+
+<!--
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshasrivastava1&theme=radical" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shreya549&&show_icons=true&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshasrivastava1&&show_icons=true&theme=radical" alt="My Github Stats">
 </p>
 <a href="https://github.com/akankshasrivastava1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshasrivastava1&theme=radical" />
