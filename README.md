@@ -57,9 +57,10 @@
 </table>
 
 - **UI/UX**
-  <table>
+
+ <table>
 <tbody>
- <tr>
+<tr>
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
 </td>  
@@ -76,10 +77,6 @@
 - **Web Development**
 <table>
 <tbody>
-<!-- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"> 
-</td>  -->
 <td align="center" width="50%">
 <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
 </td>
@@ -87,9 +84,7 @@
 </tbody>
 </table>
 
-
-
-    
+ 
 <br>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankshasrivastava1&layout=compact&theme=radical" alt="My Github Stats">
@@ -117,22 +112,6 @@
 ![VisitorCount](https://profile-counter.glitch.me/akankshasrivastava1/count.svg)
 
 
-
-<br>
-<br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"> 
-</td>
-<td align="center" width="50%">
-<img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> 
-</td>
-</tr>
-</tbody>
-</table>
-<br>
 
 <!--
 <p align="center">
