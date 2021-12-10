@@ -7,7 +7,7 @@
 <!--#### I am an individual with a keen eye for details, seeking to advance my growing tech career as a Software Developer and bringing my trouble shooting skills to engineer responsive solutions along with like-minded peers.-->
 
 ### My skills :woman_technologist:
-**Competitive Coding**
+- **Competitive Coding**
 <table>
 <tbody>
  <tr>
