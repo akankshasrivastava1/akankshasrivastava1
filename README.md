@@ -91,7 +91,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=akankshasrivastava1&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
 </p>
 
-<br> <br>
+<br> /*<br>
  <a href="_">
 </a>
 <a href="https://www.linkedin.com/in/">
@@ -105,7 +105,7 @@
 </a>
 <a href="https://www.hackerrank.com/akankshasrivast6">
   <img align="left" alt="akanksha's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
+</a>*/
 <br><br>
 
 #### Thanks for visiting :heart:
