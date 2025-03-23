@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm **Akanksha Srivastava**, a passionate **Full-Stack Dev
   <tr>
     <td align="center"><img height=60px src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg"></td>
     <td align="center"><img height=60px src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg"></td>
-    <td align="center"><img height=60px src="https://https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></td>
+    <td align="center"><img height=60px src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></td>
+    <td align="center"><img height=60px src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"></td>
     <td align="center"><img height=60px src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg"></td>
     <td align="center"><img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></td>
   </tr>
