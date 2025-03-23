@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm **Akanksha Srivastava**, a passionate **Full-Stack Dev
 
 ---
 ### 🚀 About Me
-- 💻 **Currently Working At**: Capgemini as a **Senior Software Engineer**
+<!-- 💻 **Currently Working At**: Capgemini as a **Senior Software Engineer** -->
 - 🔥 **Expertise In**: ASP.NET | Angular | SQL Server | Azure
 - 📚 **Currently Learning**: Competitive Programming | Dynamic Programming | UI/UX Design
 <!-- 🎯 **Aspiring To Join**: Google (Dream Company 💙) -->
